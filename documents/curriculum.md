@@ -1,113 +1,31 @@
-# Timeline
+# Course
 
 #### `001_helloworld.py`
+* Introduction to programming, Python, and Spyder IDE
+* Making comments
+* "Hello World"
 
 #### `002_object_types.py`
+* Objects
+* Definition of a variable
+* Various types of objects
+* Casting
 
-#### `003_expressions.py` <- I'm here
+#### `003_expressions.py`
+* Expressions with various data types and operators
+* Manipulating variables with expressions
 
-### 3. Expressions, Objects, and Variables
+#### `004_tuples.py`
+* Using tuples to make lists of other objects and variables
+* Accessing a specific item from a tuple
+* Swapping variable values with a tuple
 
-You can assign expressions and variables (both are objects) a name.
+#### `005_userinput.py`
+* Take user input
+* When to cast
+* Printing statements relative to the user input
 
-Computers can't solve equations like `3 + x = 2` but then can solve expressions like `3 - 2`.
-
-Computer can do math you tell it to by giving it an **expression** "+-/*%"
-```Python
->>> 2*3
-6
-
->>> 5-4*2
--3
-```
-
-Python can concatenate strings too.
-Define a string for students
-```
->>> "Hi, " + "I\'m Omkar"
-"Hi, I'm Omkar"
-```
-
-You can store a certain value (an object), such as the number 12, in something called a **variable**. A variable is a name that has been assigned a value (string or number). For example, `my_favorite_num= 12`.
-
-So, in Python, how do we assign a value to a variable?
-What does the "=" means in math vs programming
-* "=" states an equality in math
-* "=" assigns a value (on the right hand side) to the variable (on the left hand side) in programming
-
-An **object** name must start with a letter or underscore. It can only contain letters, numbers, and strings. There can no be spaces.
-
-```Python
->>> a = 3
->>> b = 2
->>> a + b
-5
-```
-What if one of the variables is a string?
-```Python
->>> a = 3
->>> b = "this is a string"
->>> a + b
-TypeError: unsupported operand type(s) for +: 'int' and 'str'
->>> a = "3"
->>> a + b
-"3this is a string"
-```
-
-You can also set variables to expressions
-```Python
->>> a=3
->>> b=2
->>> c=a+b
->>> c
-5
-```
-
-Can you guess the final value of c below?
-```Python
->>> a=3
->>> b=2
->>> c=a+b
->>> print(c)
-5
->>> a=7
->>>print(c) #What's the value of the variable "c" now?
-```
-
-The value of c is the sum of a and b. When we set `c=a+b`, the computer remembers the value of `c` as 5, not as `a+b` anymore. So the final of value of `c` is still `5`.
-```Python
->>> print(c)
-5
-
-```
-
-But you can reassign the value of a variable.
-```Python
->>> c=12
->>> print(c)
-12
-```
-
-Is the below accepted by Python?
-```Python
->>> 6 - x =2
-```
-Nope.
-
-How about this?
-```Python
->>> a = 3
->>> b = 4
->>> c = 5
->>> a = b = c
-```
-Yes, now all 3 variables equal 5.
-
-### 4. Object Types and Statements of Code (change title)
-
-Each object has actions or behaviors. Much like how Alfred can bark or pant.
-
-Objects have a type and operations.
+#### `006`
 
 ### Common Errors and How to debug them
 

@@ -1,4 +1,5 @@
 # TUPLES
+# another object
 
 # Sometimes we want to store items in a list.
 # Such as a list of guests invited to a party
@@ -27,8 +28,8 @@ print(guest_list)
 new_list=("a","b","c")+("x","y","z")
 print(new_list)
 
-# Getting an item from a specific index
-second_guest= guest_list[2]
+# Getting an item from a specific index (explain that lists start at 0, not 1)
+second_guest= guest_list[1]
 print(second_guest)
 
 # Finding the length of a list
@@ -36,7 +37,7 @@ num_of_guests= len(guest_list)
 print(num_of_guests)
 
 # Using a tuple to swap objects
-# suppose you have a couple variables you wanna swap the values 
+# suppose you have a couple variables you wanna swap the values
 dad="Linda"
 mom="Joe"
 # you can use a tuple to swap the values of the 'dad' and 'mom' variables

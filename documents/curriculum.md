@@ -44,9 +44,9 @@
 * Discuss scopes of variables defined in and out of a function
 
 #### `009_morefunctions.py`
-* Understand the variable names used in the parameters aren't defined variables
-* Nesting
+* More about scoping
+    * Understand the variable names used in the parameters aren't defined variables
+* Nesting functions
 
 ### Misc
-
-Perhaps show students something, then do something together with them, and then give them a practice exercise or two.
+Perhaps show students something, then do something with them, and then give them a practice exercise or two.

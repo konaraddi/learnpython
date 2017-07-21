@@ -101,6 +101,12 @@ def set_h():
 set_h()
 print(h)
 
+# And what's happeing here?
+x = 2
+def change(variable):
+	variable = "It's been changed"
+change(x)
+print(x)
 
 # Functions have access to variables defined in the main program
 # The main program can not access variables defined in the function

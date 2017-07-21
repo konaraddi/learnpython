@@ -53,8 +53,10 @@ print("Hello" + " World")
 my_name = "Omkar"
 print("My name is " + my_name)
 
-# We can't add integers or floats with strings (show by example and go over errors here)
+# We can't add integers or floats with strings
 # print(3 + "Hello")
+# An error occurs
+# ERRORS: happens to every programmer at some point, lets learn how to read them
 
 # But wait, remember what we said about casting?
 

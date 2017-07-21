@@ -4,10 +4,16 @@
 # without there being any sort of decision making involved.
 
 # IF statements
+'''
+if [some condition goes here]:
+	[then do something here]
+'''
+
+# Note the colon and ident
 if 3 > 0:
-	print("True, 3 is greater than 0.")
-print("This message is always printed.")
-# Indents are important
+	print("True, 3 is greater than 0.") # This belongs to the if statement
+print("This message is always printed.") # This comes after the if statement
+
 
 # Example
 # The == & !=
@@ -19,7 +25,7 @@ if fav_num % 2 != 0:
 	print("Your favorite number is an odd number.")
 
 # You also use == and != with strings
-word="hello"
+word = "hello"
 if word == "hello":
 	print("The word says 'hello'. ")
 
@@ -50,5 +56,3 @@ else:
 
 # Exercises
 # 1. Read two numbers from the user then tell the user which one is bigger or if they're both equal
-
-

@@ -1,5 +1,5 @@
 # LOOPS in Python
-'''
+
 # FOR loop
 print("Starting from 0 and stopping before 4:")
 for i in range(4):
@@ -24,7 +24,7 @@ word=input("I can spell any word you tell me: ")
 for char in word:
 	print(char)
 
-# Iterating over a string...backwards
+# Iterating over a string...backwards!
 word=input("Give me a word: ")
 for c in range(len(word)-1, -1, -1):
 	print(word[c])
@@ -38,13 +38,13 @@ for c in range(len(word)-1, -1, -1):
 
 # Introducing a WHILE loop
 # A guessing game, where we don't how many guesses the user will need
-secret_num=12
-guess=input("Can you guess what number I'm thinking of?\n")
-guess=int(guess)
+secret_num = 12
+guess = input("Can you guess what number I'm thinking of?\n")
+guess = int(guess)
 while guess != secret_num:
 	print("Nope, that's not it.")
-	guess=input("Try again: ")
-	guess=int(guess)
+	guess = input("Try again: ")
+	guess = int(guess)
 print("Eyyy, you got it!") # We only get here when the while loop ends
 
 # Exercise
@@ -61,18 +61,16 @@ while True:
 guess = input("Guess the word I'm thinking of: ")
 attempts_left = 3
 while guess != 'word':
-	attempts_left-=1
+	attempts_left -= 1
 	if attempts_left == 0:
 		print("You ran out of tries :(")
 		break;
 	guess = input("Nope, guess again: ")
 if guess == 'word':
 	print("Yup! That's correct")
-'''
 
 # You can skip the rest of the lines in a loop by using the keyword 'continue'
 for x in range (100):
 	print(x)
 	continue
 	print("This message will never be printed.")
-

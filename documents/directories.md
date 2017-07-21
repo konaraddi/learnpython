@@ -1,5 +1,6 @@
-# Structure of teaching
+#### Structure of teaching
 
-1. Explanation & Example
-2. Exercise
+1. Explanation/Concept
+2. Example with students
+2. Exercise (students on their own)
 3. Solution

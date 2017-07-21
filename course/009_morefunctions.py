@@ -3,29 +3,29 @@
 
 # More about scoping
 def g():
-	x=999999
+	x = 999999
 	print(x)
 
-x=0 # This won't matter, the x in the function is different
+x = 0 # This won't matter, the x in the function is different
 g()
 
 # Ask students to guess what the last 4 lines will do
+# Have students guess before they try it out themselves
 def do_something(a,b):
-	x=a+b
-	y=a-b
-	print(x*y)
-	return x/y
-a=1
-b=2
-x=5
-y=6
+	x = a + b
+	y = a - b
+	print(x * y)
+	return x / y
+a = 1
+b = 2
+x = 5
+y = 6
 
 print(do_something(x,y))
 print(do_something(a,b))
 print(do_something(x,a))
 print(do_something(y,b))
 
-# Have students guess before they try it out themselves
 
 
 # NESTING
@@ -63,7 +63,7 @@ def whats_next():
 		return eat()
 	else:
 		print("Alright.")
-		return None
+		# by default, any function that does not return something, is returning None
 
 def eat():
 	print("Eat some noodles")

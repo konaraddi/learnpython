@@ -3,9 +3,7 @@
 003 expressions
 004 tuples
 005 user input
-
-decisions.py
-survival.py
-loops.py
-functions.py
-morefunctions.py
+006 decisions
+007 loops
+008 functions
+009 morefunctions

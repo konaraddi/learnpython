@@ -1,5 +1,14 @@
 # FUNCTIONS
 
+'''
+Provide example of complicated program ppl use everyday.
+Explain that it's made up of multiple modules of code, breaking a big problem into smaller problems,
+each with its own purpose to fulfill a certain task. And once you've made a module for a specific task,
+it's easy to use it again and again in different places.
+
+In Python, these modules that complete subtasks are called functions.
+'''
+
 def greet_you():
 	your_name=input("What's your name? ")
 	print("Hello " + your_name)
@@ -7,10 +16,15 @@ def greet_you():
 '''
 greet_you()
 
-def greet_you_again(name):
+# Functions need to be called
+# Explain what happens when a function is called
+
+def greet_you_again(name): # These input parameters are not actual variables, they are placeholders
 	print("Hello "+ name)
 
 greet_you_again(input("What's your name? "))
+
+# Parameters vs Arguments
 
 def combine_words(word1, word2):
 	return word1 + word2
@@ -48,7 +62,18 @@ def get_years_alive(tree_rings):
 	'''
 	return tree_rings*1.2
 
-# Talk about scopes of parameters and variables
-# Functions have access to variables in the main program
-# The main program can not access variables defined in the function
+# Talk about SCOPES of parameters and variables
 
+L = 4
+def printL():
+		print(L)
+
+# Compare the above and below when discussing scopes
+
+def printQ():
+		q = 12
+		print(q)
+print(q)
+
+# Functions have access to variables defined in the main program
+# The main program can not access variables defined in the function

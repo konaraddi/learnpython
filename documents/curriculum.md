@@ -1,4 +1,4 @@
-# Course
+## What's covered?
 
 #### `001_helloworld.py`
 * Introduction to programming, Python, and Spyder IDE
@@ -25,27 +25,27 @@
 * When to cast
 * Printing statements relative to the user input
 
-#### `006`
+#### `006_decisions.py`
+* `if` statements
+* Logical operators `> < >= <= == !=`
+    * `and`, `or`
+* `if elif else`
 
-### Common Errors and How to debug them
+#### `007_loops.py`
+* `for` loop
+* `while` loop
+* `break`, `continue`
 
-Stuff in Day_1/basics/
+#### `008_functions.py`
+* Defining functions
+* `return` statements
+* Calling functions
+* Parameters vs Arguments
+* Discuss scopes of variables defined in and out of a function
 
-### Dividing up Tasks
-
-Provide example of complicated program ppl use everyday.
-Explain that it's made up of multiple modules of code, breaking a big problem into smaller problems,
-each with its own purpose to fulfill a certain task. And once you've made a module for a specific task,
-it's easy to use it again and again in different places.
-
-In Python, these modules that complete subtasks are called functions.
-Functions can have input or none at all.
-*Parameters vs Arguments*
-
-`functions.py`
-
-Functions need to be called
-Explain what happens when a function is called
+#### `009_morefunctions.py`
+* Understand the variable names used in the parameters aren't defined variables
+* Nesting
 
 ### Misc
 

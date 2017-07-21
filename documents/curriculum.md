@@ -1,42 +1,16 @@
-# Learn Python in 15 hours
-A 15-hour Python course designed for elementary school kids, developed by Omkar Konaraddi.
+# Timeline
 
-Note that this is meant to serve as a guideline that an instructor should follow. This file should not be considered the course itself. This file should not be considered a simple, slim introduction to Python and not wholesome. This file intentionally leaves out certain topics, exceptions, details, etc.
+#### `001_helloworld.py`
 
-### Day 1
-------
+#### `002_object_types.py`
 
-`01helloworld.py`
-
-
-### 2. Getting Started with Python
-
-What's a text editor and IDE?
-
-Walk thru text editor or IDE's functions
-
-New, Saving (* .py), Closing/Opening files
-
-How to make a comment and why you should make comments when you code
-
-"Hello World!" program
-```Python
->>> print("Hello World!")
-Hello World!
-```
-
-Using print() vs not using it (i.e. typing straight into the console)
-    * user can see the former, developer can see latter too
+#### `003_expressions.py` <- I'm here
 
 ### 3. Expressions, Objects, and Variables
 
-Computers can't solve equations like `3 + x = 2` but then can solve expressions like `3 - 2`.
-
-**object**: in Python, an object is any "thing" in Python that can be named. Objects are named so you don't have to refer to them by their description. Much like how you may refer to your pet dog by saying "Alfred", as opposed to saying "you quadrupedal with an acute sense of smell".
-
-Objects have a *type* and *properties*. For example, Alfred is a type of Dog. Some of Alfred's properties may include it's behavior such as barking or his brown hair color.
-
 You can assign expressions and variables (both are objects) a name.
+
+Computers can't solve equations like `3 + x = 2` but then can solve expressions like `3 - 2`.
 
 Computer can do math you tell it to by giving it an **expression** "+-/*%"
 ```Python

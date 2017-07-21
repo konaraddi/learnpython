@@ -63,17 +63,44 @@ def get_years_alive(tree_rings):
 	return tree_rings*1.2
 
 # Talk about SCOPES of parameters and variables
+'''
+"You can access a variable inside a function without defining it inside a function. As long
+as a variable with that name exists in the main program scope....
 
+You cannot assign a value to a variable inside a function without defining it inside
+function first."
+
+---- quoted from the book Get Programming: Learn to Code with Python from Manning
+'''
+
+# What happens here?
 L = 4
 def printL():
 		print(L)
 
-# Compare the above and below when discussing scopes
+# L = 6
+printL()
 
+# What happens here?
 def printQ():
 		q = 12
 		print(q)
-print(q)
+#print(q)
+
+# What about here?
+def set_h():
+	h = 1
+h = 0
+set_h()
+print(h)
+
+# What about here?
+h = 0
+def set_h():
+	h = 1
+set_h()
+print(h)
+
 
 # Functions have access to variables defined in the main program
 # The main program can not access variables defined in the function

@@ -15,10 +15,11 @@
 * Expressions with various data types and operators
 * Manipulating variables with expressions
 
-#### `004_tuples.py`
+#### `004_tuples_lists.py`
 * Using tuples to make lists of other objects and variables
 * Accessing a specific item from a tuple
 * Swapping variable values with a tuple
+* `list` in Python
 
 #### `005_userinput.py`
 * Take user input
@@ -49,7 +50,7 @@
 * Nesting functions
 
 #### `010_file_io.py`
-* 
+*
 
 ### Misc
 Perhaps show students something, then do something with them, and then give them a practice exercise or two.

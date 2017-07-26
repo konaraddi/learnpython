@@ -1,7 +1,7 @@
 001 helloworld
 002 object types
 003 expressions
-004 tuples
+004 tuples & lists
 005 user input
 006 decisions
 007 loops

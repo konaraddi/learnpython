@@ -46,3 +46,32 @@ print("Dad's name:")
 print(dad)
 print("Mom's name:")
 print(mom)
+
+
+# LISTS
+# So far we've made lists with tuples. Python has a second kind of lists, this time called "list"
+
+list_of_numbers=[1,2,3,4,5]
+print(type(list_of_numbers))
+
+# What's different about this than a tuple? Here are a few differences:
+
+# You can swap out values in a list
+list_of_numbers[0]= 6
+print(list_of_numbers)
+list_of_numbers[0]= 1
+print(list_of_numbers)
+
+# Easier to add to the list
+list_of_numbers.append(6)
+list_of_numbers.extend([7,8,9]) #adding another list
+
+# Mixed object types are allowd
+list_of_numbers.append('ten')
+print(list_of_numbers)
+
+# Remove specific items
+list_of_numbers.remove('ten')
+print(list_of_numbers)
+
+# However, due to this extra functionality, lists take up more space on a computer

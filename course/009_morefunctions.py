@@ -58,7 +58,7 @@ play_sport(bball)
 # you can also return a function
 
 def whats_next():
-	response=input("Are you hungry? (Y or N)")
+	response = input("Are you hungry? (Y or N)")
 	if response == 'Y':
 		return eat()
 	else:

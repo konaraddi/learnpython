@@ -48,5 +48,8 @@
     * Understand the variable names used in the parameters aren't defined variables
 * Nesting functions
 
+#### `010_file_io.py`
+* 
+
 ### Misc
 Perhaps show students something, then do something with them, and then give them a practice exercise or two.

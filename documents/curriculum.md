@@ -50,7 +50,10 @@
 * Nesting functions
 
 #### `010_file_io.py`
-*
+* Students learn how to read from a file
+UNFINISHED
 
-### Misc
-Perhaps show students something, then do something with them, and then give them a practice exercise or two.
+### Ideas
+Show students something, then do something with them, and then give them a practice exercise or two.
+Hangman in CLI
+Expand upon text-based story or survival game

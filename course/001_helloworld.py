@@ -36,10 +36,9 @@ When we click Run, nothing happens yet.
 
 # it's always good to write comments (write your name at the top of this file)
 
-'''
 # Let's write out first program:
 print("Hello World")
+
 # What's going to happen?
 
 # Try making your own print statement
-'''

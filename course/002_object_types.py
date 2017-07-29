@@ -50,7 +50,6 @@ pet = "Alfred the Dog"
 nothing = None
 tokens = None
 
-
 # You can check the type of a variable w/ type()
 
 # You can change certain types of variables to other types (i.e. "casting")

@@ -1,5 +1,9 @@
 # Part 001
 
+# introductions/Names
+
+# Has anyone done coding before, used Scratch or programmed a Lego Robot?
+
 # What's progamming?
 '''
 Giving instructions to a computer so the computer will do something.
@@ -21,7 +25,7 @@ Google, YouTube, Bethesda (the folks who made Skyrim & Fallout), Instagram, Walt
 
 # Let's get started:
 '''
-Click on Spyder IDE.
+Click on Visual Studio.
 This is where we will be writing and testing out programs.
 *explain various parts of IDE like saving, running, stopping, etc.*
 '''

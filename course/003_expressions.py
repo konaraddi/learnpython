@@ -84,5 +84,3 @@ a = b = c
 print("a =", a)
 print("b =", b)
 print("c =", c)
-
-# Btw you can do this in the console (show students)

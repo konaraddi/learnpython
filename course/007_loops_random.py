@@ -74,3 +74,12 @@ for x in range (100):
 	print(x)
 	continue
 	print("This message will never be printed.")
+
+
+
+# RANDOM
+'''
+Somtimes we want to pick something randomly, like a random food or number.
+'''
+import random
+# We're "including" a module called "random". This gives us an extra set of tools for generating random objects.

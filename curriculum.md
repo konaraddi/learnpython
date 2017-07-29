@@ -32,10 +32,11 @@
     * `and`, `or`
 * `if elif else`
 
-#### `007_loops.py`
+#### `007_loops_random.py`
 * `for` loop
 * `while` loop
 * `break`, `continue`
+* How to use `random`
 
 #### `008_functions.py`
 * Defining functions

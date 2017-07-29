@@ -87,7 +87,6 @@ Combine these lists, and call it `favorites`.
 
 * Ask the user for their pet name and various stats (e.g. Type? Amount of HP? Attack/Defense? Favorite toy?). In the end, print it all out in a neat fashion.
 
-
 ### 006 Decisions
 
 1. Ask the user for two numbers. Tell the user which one is bigger or if they are both equal.
@@ -96,4 +95,8 @@ Combine these lists, and call it `favorites`.
 
 ### 007 Loops and Random
 
-1. Make a guess-the-number game. Tell the user if they are hot or cold.
+1. Make a guess-the-number game. Generate the number randomly. Tell the user if they are hot or cold after each guess.
+
+### 008 & 009 Functions
+
+1. Make hangman using functions, loops, random (for choosing a word), and input(). **Draw a flowchart first before you program.**

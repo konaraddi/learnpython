@@ -1,5 +1,5 @@
 # LOOPS in Python
-
+'''
 # FOR loop
 print("Starting from 0 and stopping before 4:")
 for i in range(4):
@@ -74,7 +74,7 @@ for x in range (100):
 	print(x)
 	continue
 	print("This message will never be printed.")
-
+'''
 
 
 # RANDOM
@@ -83,3 +83,18 @@ Somtimes we want to pick something randomly, like a random food or number.
 '''
 import random
 # We're "including" a module called "random". This gives us an extra set of tools for generating random objects.
+
+# Assigning a variable a random number from 0 to 5 (including 0 & 5)
+random_number= random.randint(0, 5)
+# The number isn't chosen until we run the program
+# So we have no way to knowing what the number is until we print the variable's value
+print(random_number) # This won't necessarily be the same every time
+
+# Generating a random number can help us choose a random item from a list
+list_of_items = ["item0", "item1", "item2", "item3", "item4"]
+random_index = random.randint(0, len(list_of_items) - 1) # Why do need to subtract 1? Because indices start with 0
+random_item = list_of_items[random_index]
+print(random_item)
+
+# Or you could just do this
+print(random.choice(list_of_items)) # BUT this only works for lists!

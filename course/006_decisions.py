@@ -53,6 +53,3 @@ elif num < 0:
 	print(num, "is negative")
 else:
 	print(num, "is zero so it's neither positive nor negative")
-
-# Exercises
-# 1. Read two numbers from the user then tell the user which one is bigger or if they're both equal

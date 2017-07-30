@@ -108,9 +108,21 @@ Combine these lists, and call it `favorites`. Print them all out.
 
 ### 008 & 009 Functions
 
-1. Make hangman using functions, loops, random (for choosing a word), and user input. **Draw a flowchart first before you write any code.**
+**Make a flowchart of these before you begin to write code.**
+
+1. Print the Fibonacci sequence until the Nth number where N is a number specified by the user
+    * Fibonacci sequence: 1, 1, 2, 3, 5, 8, 14
+
+* Make hangman using functions, loops, random (for choosing a word), and user input.
     * Remember, you can print the hangman each time
 
-### 010 File I/O
+### 010 Turtle
+
+1. Draw a triangle
+* Draw a dodecagon (12-sided-polygon)
+* Draw a human face
+
+
+### 011 File I/O
 
 1. Improve upon the hangman game, by pulling the words from a `words.txt` file instead of a list or tuple

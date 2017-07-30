@@ -19,6 +19,7 @@ Some of Alfred's properties may include it's behavior such as barking or his bro
 # How do we assign a variable? Using the '=' sign
 x = 1
 # In math, the equal sign indicates an equality. In programming, it indicates that we are setting something equal to another.
+print(x)
 
 # Some types of objects that be assigned a variables:
 
@@ -27,17 +28,20 @@ x = 1
 a = 3
 b = -4
 age = 72
+print(a, b, age)
 
 # FLOATS (float type)
 # Decimal numbers
 x = 0.2
 y = 3.0
 weight = 132.3
+print( x, y , weight)
 
 # BOOLEANS (bool type)
 # True or False
 summer = True
 winter = False
+print(summer, winter)
 
 # STRINGS (str type)
 # Series of characters (letters, numbers, punctuation, etc.)
@@ -50,12 +54,21 @@ This is on
 multiple
 lines.
 '''
-# Btw, you can find the length of a string using len()
+print(multiple_lines)
+
+# Use "\" as an escape sequence
+print("Bob said, \"I'm hungry!\"")
+
+# You can find the length of a string using len()
+word = "dictionary"
+length = len(word)
+print(length)
 
 # NO VALUE (NoneType type)
 # "None" is the "null" in Python
 nothing = None
 tokens = None
+print(nothing)
 
 # You can check the type of a variable w/ type()
 

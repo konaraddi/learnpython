@@ -50,9 +50,10 @@
     * Understand the variable names used in the parameters aren't defined variables
 * Nesting functions
 
+### `010_turtle.py`
+
 #### `010_file_io.py`
 * Students learn how to read from a file
-UNFINISHED
 
 ### Ideas
 Show students something, then do something with them, and then give them a practice exercise or two.

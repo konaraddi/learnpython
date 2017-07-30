@@ -1,5 +1,7 @@
 # Exercises for Students
-###### Solutions for these exercises in the `ExerciseSolutions/` folder
+###### Solutions for these exercises are in the `ExerciseSolutions/` folder
+
+You can't learn without practice.
 
 ### 001 Hello World
 

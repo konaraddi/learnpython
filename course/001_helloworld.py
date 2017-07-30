@@ -27,6 +27,7 @@ Google, YouTube, Bethesda (the folks who made Skyrim & Fallout), Instagram, Walt
 '''
 Click on Visual Studio.
 This is where we will be writing and testing out programs.
+*we're not gonna use everything in this IDE*
 *explain various parts of IDE like saving, running, stopping, etc.*
 *go over where they will be saving their files and working*
 '''

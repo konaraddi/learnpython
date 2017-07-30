@@ -1,6 +1,6 @@
 # User INPUT
 
-# How do we get a input from the user?
+# How do we get an input from the user?
 input()
 
 # For example, you can ask the user what's their name
@@ -20,10 +20,3 @@ print("Oh yeah, I remember now, your name is", user_name)
 age = input("How old are you?\n")
 age = int(age) #casting
 print("You have", 18 - age, "years until you're an adult!")
-
-# EXERCISES
-
-# 1. Ask the user for their first, middle, and last name. Then print their full name.
-# 2. Ask the user for 2 numbers, then print the average. 
-# 3. Ask the user for their pet name and various stats (e.g. how much HP? Attack/Defense?)
-#    then print it all out for the user in a neat fashion.

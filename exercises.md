@@ -23,15 +23,15 @@
 
 * Make a variable containing "rain" and another containing "bow" then add and print them together
 
-* Make `greeting` and `name` variables and then use those variables to print "Good Afternoon, <insert your name> !"
+* Make `greeting` and `name` variables and then use those variables to print "Good Afternoon, [insert your name] !"
 
 * Print a letter
 
 ```
-                                     123 Somestreet Street
-                                     Townsville, XY 28351
+                                        123 Somestreet Street
+                                        Townsville, XY 28351
 
-                                     April 1, 2020
+                                        April 1, 2020
 
 Dear Alfred,
 
@@ -40,11 +40,11 @@ a letter addressed to you, complete with most, if not all,
 parts that a letter should be composed of, should it be
 of the utmost highest caliber of a letter.
 
-                                 Sincerely,
-                                 Bucky
+                                        Sincerely,
+                                        Bucky
 
 ```
-hint: You don't need to type multiple spaces individually for the right justified text
+hint: You don't need to type multiple spaces individually for the "right justified" text
 
 * Print a few pictures:
 

@@ -44,6 +44,12 @@ winter = False
 greeting = "Hey Bob! How's it going?"
 car = "2017 Porsche 911 Carrera"
 pet = "Alfred the Dog"
+# Making a multiline string
+multiple_lines = '''
+This is on
+multiple
+lines.
+'''
 # Btw, you can find the length of a string using len()
 
 # NO VALUE (NoneType type)

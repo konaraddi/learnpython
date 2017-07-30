@@ -28,6 +28,7 @@ Google, YouTube, Bethesda (the folks who made Skyrim & Fallout), Instagram, Walt
 Click on Visual Studio.
 This is where we will be writing and testing out programs.
 *explain various parts of IDE like saving, running, stopping, etc.*
+*go over where they will be saving their files and working*
 '''
 
 # These are comments the computer will ignore
@@ -44,5 +45,7 @@ When we click Run, nothing happens yet.
 print("Hello World")
 
 # What's going to happen?
+
+# Go over errors
 
 # Try making your own print statement

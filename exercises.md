@@ -28,10 +28,10 @@
 * Print a letter
 
 ```
-                                123 Somestreet Street
-                                Townsville, XY 28351
+                                     123 Somestreet Street
+                                     Townsville, XY 28351
 
-                                April 1, 2020
+                                     April 1, 2020
 
 Dear Alfred,
 
@@ -44,6 +44,7 @@ of the utmost highest caliber of a letter.
                                  Bucky
 
 ```
+hint: You don't need to type multiple spaces individually for the right justified text
 
 * Print a few pictures:
 
@@ -77,7 +78,9 @@ duck
 
 * Make a list of all your favorite foods.
 Then make a list of all your favorite hobbies.
-Combine these lists, and call it `favorites`.
+Combine these lists, and call it `favorites`. Print them all out.
+
+* Make a list of all the TV shows or movies you've watched this year. Then figure out how many TV shows or movies you've watched (hint: you don't need to count them yourself!)
 
 ### 005 User Input
 
@@ -91,12 +94,21 @@ Combine these lists, and call it `favorites`.
 
 1. Ask the user for two numbers. Tell the user which one is bigger or if they are both equal.
 
-* Make a program that asks the user if they would like to hear their fortune. If they agree, print out their fortune.
+* Make a text-based adventure story/game. **Draw it out on a piece of paper before you begin.**
 
 ### 007 Loops and Random
 
-1. Make a guess-the-number game. Generate the number randomly. Tell the user if they are hot or cold after each guess.
+**Make a flowchart of these before you begin to write code.**
+
+1. Make a fortune teller. Ask the user if they would like to hear a fortune, then give them a random fortune. Once a fortune is given, ask the user if they would like to hear another one.
+
+* Make a guess-the-number game. Generate the number randomly. Tell the user if they are hot or cold after each guess.
 
 ### 008 & 009 Functions
 
-1. Make hangman using functions, loops, random (for choosing a word), and input(). **Draw a flowchart first before you program.**
+1. Make hangman using functions, loops, random (for choosing a word), and user input. **Draw a flowchart first before you write any code.**
+    * Remember, you can print the hangman each time
+
+### 010 File I/O
+
+1. Improve upon the hangman game, by pulling the words from a `words.txt` file instead of a list or tuple

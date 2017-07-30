@@ -44,6 +44,7 @@ winter = False
 greeting = "Hey Bob! How's it going?"
 car = "2017 Porsche 911 Carrera"
 pet = "Alfred the Dog"
+# Btw, you can find the length of a string using len()
 
 # NO VALUE (NoneType type)
 # "None" is the "null" in Python

@@ -47,6 +47,8 @@ print(dad)
 print("Mom's name:")
 print(mom)
 
+# One drawback about tuples, you can't change them ("immutable")
+
 
 # LISTS
 # So far we've made lists with tuples. Python has a second kind of lists, this time called "list"
@@ -73,5 +75,7 @@ print(list_of_numbers)
 # Remove specific items
 list_of_numbers.remove('ten')
 print(list_of_numbers)
+
+print("There are", len(list_of_numbers), "items in the list")
 
 # However, due to this extra functionality, lists take up more space on a computer

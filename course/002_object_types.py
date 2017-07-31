@@ -29,6 +29,7 @@ a = 3
 b = -4
 age = 72
 print(a, b, age)
+a,b,c=1,2,3
 
 # FLOATS (float type)
 # Decimal numbers
@@ -58,6 +59,9 @@ print(multiple_lines)
 
 # Use "\" as an escape sequence
 print("Bob said, \"I'm hungry!\"")
+
+#Use \n to make a new line
+print("This is one line \n And this is one another")
 
 # You can find the length of a string using len()
 word = "dictionary"

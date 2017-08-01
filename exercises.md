@@ -88,9 +88,9 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 ### time.py
 
-* Write a real compelling story
+* Write a real compelling story, maybe with dialogue too
 
-* Write a group rap, each student comes up with a line
+* Write a group rap, each student comes up with a line that rhymes
 
 ### 005 User Input
 
@@ -100,7 +100,7 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 * Ask the user for their pet name and various stats (e.g. Type? Amount of HP? Attack/Defense? Favorite toy?). In the end, print it all out in a neat fashion.
 
-* Ask for the user's birth date in the form of MM/DD/YYYY and figure out how many days old they are.
+* Ask for the user's birth date in the form of MM, then DD, and then YYYY. Tell them how many days old they are. 
 
 ### 006 Decisions
 
@@ -112,10 +112,10 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 **Make a flowchart of these before you begin to write code.**
 
-1. Make a fortune teller. Ask the user if they would like to hear a fortune, then give them a random fortune. Once a fortune is given, ask the user if they would like to hear another one.
+1. Make a fortune teller. Ask the user if they would like to hear a fortune, then give them a random fortune. Once a fortune is given, ask the user if they would like to hear another one and repeat.
 
 * Ask the user if they want to roll a dice. If they say yes, roll the dice and display the side of the dice using ASCII art. If they say no, then
-cast them into an eternity of doom
+cast them into an eternity of doom from which not even light can escape.
 
 * Make a guess-the-number game. Generate the number randomly. Tell the user if they are hot or cold after each guess.
 
@@ -127,13 +127,16 @@ cast them into an eternity of doom
     * Fibonacci sequence: 1, 1, 2, 3, 5, 8, 14
 
 * Make hangman using functions, loops, random (for choosing a word), and user input.
-    * Remember, you can print the hangman each time
+    * Remember, you can print the hangman each time using a function
+        * make the hangman in stick figures first
 
 ### 010 Turtle
 
-1. Draw a triangle
+1. Draw a triangle, rectangle, and diamond
 * Draw a dodecagon (12-sided-polygon)
-* Draw a human face
+* Draw a boat, car, or rocket ship
+
+* Drawing Machine (do with kids) on page 145 of *Help Your Kids with Computer Coding*
 
 
 ### 011 File I/O

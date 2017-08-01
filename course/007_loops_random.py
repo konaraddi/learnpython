@@ -1,4 +1,6 @@
 # LOOPS in Python
+# great for repetitive tasks
+
 '''
 # FOR loop
 print("Starting from 0 and stopping before 4:")

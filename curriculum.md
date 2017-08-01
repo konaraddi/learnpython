@@ -21,6 +21,9 @@
 * Swapping variable values with a tuple
 * `list` in Python
 
+#### `time.py`
+* Use the `time` module to delay
+
 #### `005_userinput.py`
 * Take user input
 * When to cast

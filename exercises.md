@@ -78,11 +78,19 @@ duck
     * `pirate` that equals "Yee Haw! \*takes off hat and waives it around\*"
     * `cowboy` or `cowgirl` that equals "Argh! Shiver me timbers!" and swap their values
 
-* Make a list of all your favorite foods.
-Then make a list of all your favorite hobbies.
-Combine these lists, and call it `favorites`. Print them all out.
+* Make a `tuple` of all your favorite foods.
+Then make a `tuple` of all your favorite hobbies.
+Combine these `tuples`, and call it `favorites`. Print them all out.
 
-* Make a list of all the TV shows or movies you've watched this year. Then figure out how many TV shows or movies you've watched (hint: you don't need to count them yourself!)
+* Make a `tuple` of all the TV shows or movies you've watched this year. Then figure out how many TV shows or movies you've watched (hint: you don't need to count them yourself!)
+
+* Now do the last 2 exercises, but using a `list` this time. Then remove the last item from each `list`, using an additional line of code.
+
+### time.py
+
+* Write a real compelling story
+
+* Write a group rap, each student comes up with a line
 
 ### 005 User Input
 
@@ -91,6 +99,8 @@ Combine these lists, and call it `favorites`. Print them all out.
 * Ask the user for two numbers. Print the average.
 
 * Ask the user for their pet name and various stats (e.g. Type? Amount of HP? Attack/Defense? Favorite toy?). In the end, print it all out in a neat fashion.
+
+* Ask for the user's birth date in the form of MM/DD/YYYY and figure out how many days old they are.
 
 ### 006 Decisions
 
@@ -103,6 +113,9 @@ Combine these lists, and call it `favorites`. Print them all out.
 **Make a flowchart of these before you begin to write code.**
 
 1. Make a fortune teller. Ask the user if they would like to hear a fortune, then give them a random fortune. Once a fortune is given, ask the user if they would like to hear another one.
+
+* Ask the user if they want to roll a dice. If they say yes, roll the dice and display the side of the dice using ASCII art. If they say no, then
+cast them into an eternity of doom
 
 * Make a guess-the-number game. Generate the number randomly. Tell the user if they are hot or cold after each guess.
 

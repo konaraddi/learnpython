@@ -26,4 +26,4 @@
 - [ ] Solutions for exercises
 - [ ] Course and Exercises for `010 turtle`
 - [ ] Course and Exercises for `011 file io`
-- [ ] Course and Exercises for `012 easygui`
+- [ ] Course and Exercises for `012 easygui` ? 

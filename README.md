@@ -1,2 +1,6 @@
-# Learn Python in 15 hours
-A 15-hour Python summer camp designed for 5th - 7th grade students by Omkar Konaraddi
+# Learn Python in 30 hours
+A 30-hour Python summer camp for 5th - 7th grade students 
+
+Resources Used:
+* Help Your Kids with Computer Coding
+* Python for Kids

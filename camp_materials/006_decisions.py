@@ -1,5 +1,15 @@
 # Making DECISIONS
 
+'''
+Discuss booleans (True and False) 
+and logical operators: ==, !=, >, <, >=, <= 
+
+Example: 
+a = 2
+b = 3
+print(a > b)
+'''
+
 # So far we've made linear programs; they execute line after line in order
 # without there being any sort of decision making involved.
 

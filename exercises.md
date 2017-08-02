@@ -90,8 +90,6 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 * Write a real compelling story, maybe with dialogue too
 
-* Write a group rap, each student comes up with a line that rhymes
-
 ### 005 User Input
 
 1. Ask the user for their first, middle, and last name. Print their full name.
@@ -100,11 +98,12 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 * Ask the user for their pet name and various stats (e.g. Type? Amount of HP? Attack/Defense? Favorite toy?). In the end, print it all out in a neat fashion.
 
-* Ask for the user's birth date in the form of MM, then DD, and then YYYY. Tell them how many days old they are. 
-
 ### 006 Decisions
 
 1. Ask the user for two numbers. Tell the user which one is bigger or if they are both equal.
+
+* Ask the user how many ninjas are there. Tell the user whether or not they take 'em out or what's
+the probability of taking 'em out.
 
 * Make a text-based adventure story/game. **Draw it out on a piece of paper before you begin.**
 
@@ -112,12 +111,14 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 **Make a flowchart of these before you begin to write code.**
 
-1. Make a fortune teller. Ask the user if they would like to hear a fortune, then give them a random fortune. Once a fortune is given, ask the user if they would like to hear another one and repeat.
+1. Rock, paper, scissor, shoot!
 
 * Ask the user if they want to roll a dice. If they say yes, roll the dice and display the side of the dice using ASCII art. If they say no, then
 cast them into an eternity of doom from which not even light can escape.
 
-* Make a guess-the-number game. Generate the number randomly. Tell the user if they are hot or cold after each guess.
+* Make a fortune teller. Ask the user if they would like to hear a fortune, then give them a random fortune. Once a fortune is given, ask the user if they would like to hear another one and repeat.
+
+* Make a guess-the-number game. Generate the number randomly. Tell the user if they it's too high or too low after each guess.
 
 ### 008 & 009 Functions
 

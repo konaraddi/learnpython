@@ -124,7 +124,9 @@ cast them into an eternity of doom from which not even light can escape.
 
 **Make a flowchart of these before you begin to write code.**
 
-1. Print the Fibonacci sequence until the Nth number where N is a number specified by the user
+* Function for finding the average of numbers passed into it
+
+* Print the Fibonacci sequence until the Nth number where N is a number specified by the user
     * Fibonacci sequence: 1, 1, 2, 3, 5, 8, 14
 
 * Make hangman using functions, loops, random (for choosing a word), and user input.
@@ -143,3 +145,4 @@ cast them into an eternity of doom from which not even light can escape.
 ### 011 File I/O
 
 1. Improve upon the hangman game, by pulling the words from a `words.txt` file instead of a list or tuple
+* Write directions for Turtle

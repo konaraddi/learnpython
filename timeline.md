@@ -48,15 +48,12 @@
 * Parameters vs Arguments
 * Discuss scopes of variables defined in and out of a function
 
-#### `009_morefunctions.py`
-* More about scoping
-    * Understand the variable names used in the parameters aren't defined variables
-* Nesting functions
-
 #### `010_turtle.py`
 
-#### `010_file_io.py`
+#### `011_file_io.py`
 * Students learn how to read from a file
+
+
 
 ### Ideas
 Show students something, then do something with them, and then give them a practice exercise or two.

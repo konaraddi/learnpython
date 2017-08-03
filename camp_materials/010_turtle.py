@@ -8,10 +8,20 @@ window = turtle.Screen()
 # "Bucky" is the name of my turtle, name your turtle whatever you like
 bucky = turtle.Pen()
 
+# You can define more than one turtle
+alfred = turtle.Pen()
+
 import time
 time.sleep(3)
 
-# Functions for Bucky: .forward(int), .backward(int), .right(int), .left(int), .circle(int), .color(name)
+# Functions for Bucky:
+'''
+ .forward(int), 
+ .backward(int), 
+ .right(int), 
+ .left(int), 
+ '''
+# You can use negative numbers too!
 bucky.forward(100)
 bucky.left(90) # degrees
 bucky.backward(100)
@@ -29,52 +39,12 @@ More functions for Turtle:
 .pendown()
 .pensize(int)
 
-.file(boolean)
+.circle(int)
 
+for the below, int = hex, rgb, or a word like "red"
+.color(int) -> pen color
+.color(int, int) -> pen color & fill color
 '''
 
 
-'''
-bucky.forward(100)
-bucky.right(90)
-bucky.forward(100)
-bucky.right(90)
-bucky.forward(100)
-bucky.right(90)
-bucky.forward(100)
-bucky.right(90)
-window.mainloop() # We need this to keep the window open
-'''
-
-'''
-# Wait a minute, let's use a loop
-for x in range(4):
-    bucky.forward(100)
-    bucky.left(90)
-'''
-
-'''
-# We just made a square, let's make a function for making a square
-def bucky_square():
-    # Wait a minute, let's use a loop
-    for x in range(4):
-        bucky.forward(100)
-        bucky.right(90)
-
-bucky_square()
-bucky.forward(50)
-bucky_square()
-
-window.mainloop()
-'''
-
-'''
-# We can define multiple turtles
-alfred = turtle.Pen()
-
-bucky.forward(100)
-alfred.backward(100)
-
-window.mainloop()
-'''
 

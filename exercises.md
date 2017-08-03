@@ -5,7 +5,7 @@ You can't learn without practice.
 
 ### 001 Hello World
 
-1. Print your name
+* Print your name
 * Print today's date
 * Print a sentence
 
@@ -17,7 +17,7 @@ You can't learn without practice.
 
 ### 003 Expressions
 
-1. Calculate:
+* Calculate:
     * 72 x 234 x 12
     * Remainder of 6439 divided by 6
 
@@ -74,7 +74,7 @@ duck
 
 ### 004 Tuples and Lists
 
-1. Make two variables:
+* Make two variables:
     * `pirate` that equals "Yee Haw! \*takes off hat and waives it around\*"
     * `cowboy` or `cowgirl` that equals "Argh! Shiver me timbers!" and swap their values
 
@@ -92,7 +92,7 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 ### 005 User Input
 
-1. Ask the user for their first, middle, and last name. Print their full name.
+* Ask the user for their first, middle, and last name. Print their full name.
 
 * Ask the user for two numbers. Print the average.
 
@@ -100,7 +100,7 @@ Combine these `tuples`, and call it `favorites`. Print them all out.
 
 ### 006 Decisions
 
-1. Ask the user for two numbers. Tell the user which one is bigger or if they are both equal.
+* Ask the user for two numbers. Tell the user which one is bigger or if they are both equal.
 
 * Ask the user how many ninjas are there. Tell the user whether or not they take 'em out or what's
 the probability of taking 'em out.
@@ -111,7 +111,7 @@ the probability of taking 'em out.
 
 **Make a flowchart of these before you begin to write code.**
 
-1. Rock, paper, scissor, shoot!
+* Rock, paper, scissor, shoot!
 
 * Ask the user if they want to roll a dice. If they say yes, roll the dice and display the side of the dice using ASCII art. If they say no, then
 cast them into an eternity of doom from which not even light can escape.
@@ -135,14 +135,19 @@ cast them into an eternity of doom from which not even light can escape.
 
 ### 010 Turtle
 
-1. Draw a triangle, rectangle, and diamond
-* Draw a dodecagon (12-sided-polygon)
-* Draw a boat, car, or rocket ship
+*Use input for customizing output from turtle*
+*Use loops for repetition*
+*Use random for colors*
+*Use functions for defining & customizing shapes*
 
-* Drawing Machine (do with kids) on page 145 of *Help Your Kids with Computer Coding*
-
+* Draw a square, triangle, rectangle, and diamond
+* Draw an octagon & a dodecagon (12-sided-polygon)
+* Draw a Star (`DrawStar.py`)
+* Swiveling shapes around a point with `CircleMagic` (2 circles) 
+and `SquareMagic` (use any shape(s))
+* Drawing Machine (`DrawingMachine.py`)
 
 ### 011 File I/O
 
-1. Improve upon the hangman game, by pulling the words from a `words.txt` file instead of a list or tuple
+* Improve upon the hangman game, by pulling the words from a `words.txt` file instead of a list or tuple
 * Write directions for Turtle

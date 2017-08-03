@@ -5,9 +5,12 @@
 - [X] 004_tuples_lists
 - [X] time
 - [X] 005_userinput
-- [ ] 006_decisions
-- [ ] 007_functions
-- [ ] 008_morefunctions
+- [X] 006_decisions
+- [ ] 007_loops_random
+    * Review for loops and teach while loops
+    * Finish exercises (done w/ rock, ppr, scizrs)
+- [ ] 008_functions
+- [ ] 010_turtle
 
 ### What's left to finalize/make
 

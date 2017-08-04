@@ -6,15 +6,14 @@
 - [X] time
 - [X] 005_userinput
 - [X] 006_decisions
-- [ ] 007_loops_random
-    * Review for loops and teach while loops
-    * Finish exercises (done w/ rock, ppr, scizrs)
-- [ ] 008_functions
+- [X] 007_loops_random
+- [X] 008_functions
+- [ ] simple GUI game
+    * hangman with file i/o?
 - [ ] 010_turtle
+    * Finished making basic shapes
+    * On spirograph
 
-### What's left to finalize/make
 
-- [ ] Solutions for exercises
-- [ ] Course and Exercises for `010 turtle`
-- [ ] Course and Exercises for `011 file io`
-- [ ] Course and Exercises for `012 easygui` ? 
+### To-Do
+A simple GUI game for students to take home

@@ -49,13 +49,9 @@
 * Discuss scopes of variables defined in and out of a function
 
 #### `010_turtle.py`
+* Learn how to use `turtle` to make graphics with Python
+* Use loops, functions, random, lists, etc.
 
 #### `011_file_io.py`
 * Students learn how to read from a file
 
-
-
-### Ideas
-Show students something, then do something with them, and then give them a practice exercise or two.
-Hangman in CLI
-Expand upon text-based story or survival game

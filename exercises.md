@@ -1,5 +1,5 @@
 # Exercises for Students
-###### Solutions for these exercises are in the `ExerciseSolutions/` folder
+###### Solutions for these exercises are in the `solutions/` folder
 
 You can't learn without practice.
 
@@ -26,27 +26,6 @@ You can't learn without practice.
 * Make a variable containing "rain" and another containing "bow" then add and print them together
 
 * Make `greeting` and `name` variables and then use those variables to print "Good Afternoon, [insert your name] !"
-
-* Print a letter
-
-```
-                                        123 Somestreet Street
-                                        Townsville, XY 28351
-
-                                        April 1, 2020
-
-Dear Alfred,
-
-    I'm writing this letter with the purpose of writing
-a letter addressed to you, complete with most, if not all,
-parts that a letter should be composed of, should it be
-of the utmost highest caliber of a letter.
-
-                                        Sincerely,
-                                        Bucky
-
-```
-hint: You don't need to type multiple spaces individually for the "right justified" text
 
 * Print a few pictures:
 
@@ -107,11 +86,11 @@ the probability of taking 'em out.
 
 * Make a text-based adventure story/game. **Draw it out on a piece of paper before you begin.**
 
+* Rock, paper, scissor, shoot!
+
 ### 007 Loops and Random
 
 **Make a flowchart of these before you begin to write code.**
-
-* Rock, paper, scissor, shoot!
 
 * Ask the user if they want to roll a dice. If they say yes, roll the dice and display the side of the dice using ASCII art. If they say no, then
 cast them into an eternity of doom from which not even light can escape.

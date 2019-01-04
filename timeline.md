@@ -5,8 +5,7 @@
 * Making comments
 * "Hello World"
 
-#### `002_object_types.py`
-* Objects
+#### `002_variables.py`
 * Definition of a variable
 * Various types of objects
 * Casting
@@ -22,6 +21,7 @@
 * `list` in Python
 
 #### `time.py`
+* Optional but students usually like this because the computer pauses before responding which makes it more human
 * Use the `time` module to delay
 
 #### `005_userinput.py`
@@ -51,6 +51,8 @@
 #### `010_turtle.py`
 * Learn how to use `turtle` to make graphics with Python
 * Use loops, functions, random, lists, etc.
+
+Create Pong with students and skip File I/O unless there's time for both
 
 #### `011_file_io.py`
 * Students learn how to read from a file

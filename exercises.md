@@ -9,7 +9,7 @@ You can't learn without practice.
 * Print today's date
 * Print a sentence
 
-### 002 Object Types
+### 002 Variables
 
 * Make a variable called `age` that is set to your actual age. Then print your age using the variable `age`.
 * Make a variable called `am_i_awesome`, set it to `true`, and print the variable.

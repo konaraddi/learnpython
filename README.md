@@ -41,6 +41,8 @@ You may need to click the `{}` icon (top right hand corner in Settings) to copy 
 
 The steps to change the User Settings is subject to change since VSCode is periodically updated. If you need assistance, then please feel free to email me (Omkar).
 
+For parents and kids who would like to set up their computers at home, see [for_parents.md](./for_parents.md).
+
 ## Resources Used
 
 - _Help Your Kids with Computer Coding_ by Carol Vorderman, Claire Quigley, Craig Steele, Daniel McCafferty, Jon Woodcock, and Seán McManus
